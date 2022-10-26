@@ -2,49 +2,61 @@
     {
         "id": "1",
         "image": "https://i.postimg.cc/Qt70FN3d/1.png",
-        "title": "Graphic Design",
-        "description": "Graphic design is a craft where professionals create visual content to communicate messages...",
-        "video": 35,
-        "duration": 10
+        "title": "এডভান্সড গ্রাফিক ডিজাইন",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৬ মাস",
+        "price": "২০,০০০ টাকা",
+        "time": "শনিবার - দুপুর ১২টা - ৩টা",
+        "date": "১লা অক্টোবর ২০২২"
     },
     {
         "id": "2",
         "image": "https://i.postimg.cc/T2rtGP0k/2.png",
-        "title": "Video Editing",
-        "description": "Video editors manipulate film and video footage to create a coherent...",
-        "video": 20,
-        "duration": 7
+        "title": "ওয়ার্ডপ্রেস কাস্টমাইজেশন",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৩ মাস",
+        "price": "১৫,০০০ টাকা",
+        "time": "রবিবার ও মঙ্গলবার - দুপুর ৩টা - ৫টা",
+        "date": "৩০শে অক্টোবর ২০২২"
     },
     {
         "id": "3",
         "image": "https://i.postimg.cc/vmcPdL29/3.png",
-        "title": "UI/UX",
-        "description": "UI UX designers create the user interface for an app, website, or other interactive media...",
-        "video": 30,
-        "duration": 9
+        "title": "গ্রাফিক এন্ড ইউআই ডিজাইন",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৪ মাস",
+        "price": "১৫০০০ টাকা",
+        "time": "শনিবার - সন্ধ্যা ৬টা - ৯টা",
+        "date": "২৯শে অক্টোবর ২০২২"
     },
     {
         "id": "4",
         "image": "https://i.postimg.cc/wMc2kW3K/4.png",
-        "title": "Digital Marketing",
-        "description": "Digital marketing, also called online marketing, is the promotion of brands...",
-        "video": 40,
-        "duration": 12
+        "title": "ফুল স্ট্যাক ওয়েব ডেভেলপমেন্ট",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৬ মাস",
+        "price": "২০,০০০ টাকা",
+        "time": "শনিবার - দুপুর ১২টা - ৩টা",
+        "date": "১২ই নভেম্বর ২০২২"
     },
     {
         "id": "5",
         "image": "https://i.postimg.cc/DzHxfJRN/5.png",
-        "title": "React JS",
-        "description": "React. js, more commonly known as React, is a free, open-source JavaScript library...",
-        "video": 45,
-        "duration": 14
+        "title": "ডিজিটাল মার্কেটিং",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৫.৫ মাস",
+        "price": "২০,০০০ টাকা",
+        "time": "শনিবার - দুপুর ১২টা - ৩টা",
+        "date": "১লা অক্টোবর ২০২২"
     },
     {
         "id": "6",
         "image": "https://i.postimg.cc/2yfThpkF/6.png",
-        "title": "Full-Stack Development",
-        "description": "A full stack developer is a web developer who works with both the front and back ends...",
-        "video": 60,
-        "duration": 18
+        "title": "ফুল স্ট্যাক মোশন গ্রাফিক্স",
+        "description": "অভিজ্ঞতা অর্জন হয় দক্ষতা বৃদ্ধির মাধ্যমে। আর দক্ষতাই পারে সাফল্যের শিখরে পৌঁছে দিতে। তাই সময় নষ্ট না করি, দক্ষতা বৃদ্ধি করি।",
+        "duration": "৬ মাস",
+        "price": "২০,০০০ টাকা",
+        "time": "শনিবার - সন্ধ্যা ৬টা - ৯টা",
+        "date": "১৯শে নভেম্বর ২০২২"
     }
 ]
