@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "image": "https://i.postimg.cc/CMnDCQmV/image-1.png",
+        "image": "https://i.postimg.cc/Qt70FN3d/1.png",
         "title": "Graphic Design",
         "description": "Graphic design is a craft where professionals create visual content to communicate messages...",
         "video": 35,
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "image": "https://i.postimg.cc/wjQDyRFy/image-2.png",
+        "image": "https://i.postimg.cc/T2rtGP0k/2.png",
         "title": "Video Editing",
         "description": "Video editors manipulate film and video footage to create a coherent...",
         "video": 20,
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "image": "https://i.postimg.cc/vHRn0tNx/image-3.png",
+        "image": "https://i.postimg.cc/vmcPdL29/3.png",
         "title": "UI/UX",
         "description": "UI UX designers create the user interface for an app, website, or other interactive media...",
         "video": 30,
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "image": "https://i.postimg.cc/DZHGkrfD/image-4.png",
+        "image": "https://i.postimg.cc/wMc2kW3K/4.png",
         "title": "Digital Marketing",
         "description": "Digital marketing, also called online marketing, is the promotion of brands...",
         "video": 40,
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "image": "https://i.postimg.cc/tJ6xXsYg/image-5.png",
+        "image": "https://i.postimg.cc/DzHxfJRN/5.png",
         "title": "React JS",
         "description": "React. js, more commonly known as React, is a free, open-source JavaScript library...",
         "video": 45,
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "image": "https://i.postimg.cc/V6dtVGwn/image-6.png",
+        "image": "https://i.postimg.cc/2yfThpkF/6.png",
         "title": "Full-Stack Development",
         "description": "A full stack developer is a web developer who works with both the front and back ends...",
         "video": 60,
