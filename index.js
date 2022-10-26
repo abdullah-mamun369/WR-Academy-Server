@@ -3,8 +3,16 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
+app.use(cors());
+
+const allCourses = require('./academy-data/courses-data.json');
+
 app.get('/', (req, res) => {
     res.send('News API Running')
+})
+
+app.get('/allcourses', (req, res) => {
+    res.send(allCourses)
 })
 
 app.listen(port, () => {
