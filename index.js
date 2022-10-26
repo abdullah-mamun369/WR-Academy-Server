@@ -8,11 +8,17 @@ app.use(cors());
 const allCourses = require('./academy-data/courses-data.json');
 
 app.get('/', (req, res) => {
-    res.send('News API Running')
+    res.send('Academy API Running')
 })
 
 app.get('/allcourses', (req, res) => {
     res.send(allCourses)
+})
+
+app.get("/courses/:id", (req, res) => {
+    const id = req.params.id;
+    const course = allCourses.find(course => course.id === id);
+    res.send(course);
 })
 
 app.listen(port, () => {
